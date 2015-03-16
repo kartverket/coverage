@@ -12,7 +12,7 @@ Raster maps. Irregular updates
 
 ## Sjo
 
-Sea charts. Daily updates once the hooks are set up. 
+Sea charts. Daily updates. 
 
 ## DTM
 
