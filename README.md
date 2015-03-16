@@ -17,3 +17,7 @@ Sea charts. Daily updates once the hooks are set up.
 ## DTM
 
 Elevation model. Irregular updates
+
+## Historisk
+
+Historic maps. Experimental, no planned updates.
